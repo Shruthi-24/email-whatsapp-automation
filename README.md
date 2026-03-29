@@ -14,7 +14,7 @@ This project is a Python-based automation system that extracts email data and si
 1. Install required libraries:
    pip install transformers
 2. Run the script:
-   python dataextract.py
+   python email_extractor.py
 ## Future Improvements
 - Real WhatsApp API integration
 - Web interface for user interaction
